@@ -1,0 +1,10 @@
+{
+  "azure_openai": {
+    "endpoint": "https://your-resource-name.openai.azure.com/",
+    "api_key": "your-api-key-here",
+    "api_version": "2024-02-15-preview",
+    "deployment_name": "your-deployment-name",
+    "embeddings_deployment": "text-embedding-ada-002"
+  }
+}
+
