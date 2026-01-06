@@ -1,5 +1,5 @@
 """
-CDO Monitoring & Oversight - Pattern Recognition Analysis
+Monitoring & Oversight - Pattern Recognition Analysis
 Analyzes case management data to identify patterns, risks, inefficiencies, and root causes
 """
 

@@ -1,5 +1,5 @@
 """
-CDO Monitoring & Oversight - Pattern Recognition Web Application
+Monitoring & Oversight - Pattern Recognition Web Application
 Streamlit-based web UI for uploading CSV and viewing insights
 """
 
@@ -16,7 +16,7 @@ from pattern_recognition_ai_enhanced import AIEnhancedPatternRecognition
 
 # Page configuration
 st.set_page_config(
-    page_title="CDO Monitoring & Oversight - Performance & Case Insights",
+    page_title="Monitoring & Oversight - Performance & Case Insights",
     page_icon=None,
     layout="wide",
     initial_sidebar_state="expanded"
@@ -1262,7 +1262,7 @@ def main():
                        color: var(--text-primary); 
                        margin: 0;
                        letter-spacing: -0.02em;">
-                CDO Monitoring & Oversight
+                Monitoring & Oversight
             </h1>
             <p class="ms-logo-text">
                 AI Insights
