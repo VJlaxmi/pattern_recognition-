@@ -1,4 +1,4 @@
-# Performance & Case Insights AI Agent
+# AI Agent for Operational Excellence
 
 AI-driven operational intelligence system for transforming reactive case management reporting into proactive insights.
 

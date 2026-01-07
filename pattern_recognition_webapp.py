@@ -1,5 +1,5 @@
 """
-Performance & Case Insights AI Agent - Pattern Recognition Web Application
+AI Agent for Operational Excellence - Pattern Recognition Web Application
 Streamlit-based web UI for uploading CSV and viewing insights
 """
 
@@ -16,7 +16,7 @@ from pattern_recognition_ai_enhanced import AIEnhancedPatternRecognition
 
 # Page configuration
 st.set_page_config(
-    page_title="Performance & Case Insights AI Agent",
+    page_title="AI Agent for Operational Excellence",
     page_icon=None,
     layout="wide",
     initial_sidebar_state="expanded"
@@ -1262,7 +1262,7 @@ def main():
                        color: var(--text-primary); 
                        margin: 0;
                        letter-spacing: -0.02em;">
-                Performance & Case Insights AI Agent
+                AI Agent for Operational Excellence
             </h1>
             <p class="ms-logo-text">
                 AI Insights

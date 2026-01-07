@@ -1,5 +1,5 @@
 """
-Performance & Case Insights AI Agent - Pattern Recognition Analysis
+AI Agent for Operational Excellence - Pattern Recognition Analysis
 Analyzes case management data to identify patterns, risks, inefficiencies, and root causes
 """
 

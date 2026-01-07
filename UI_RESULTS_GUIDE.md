@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Performance & Case Insights AI Agent provides an interactive web interface built with Streamlit. This guide explains how to navigate the UI and interpret the analysis results.
+The AI Agent for Operational Excellence provides an interactive web interface built with Streamlit. This guide explains how to navigate the UI and interpret the analysis results.
 
 ---
 
