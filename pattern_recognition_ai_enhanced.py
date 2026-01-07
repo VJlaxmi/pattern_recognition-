@@ -1,5 +1,5 @@
 """
-Monitoring & Oversight - AI-Enhanced Pattern Recognition
+Performance & Case Insights AI Agent - AI-Enhanced Pattern Recognition
 Integrates Azure OpenAI for natural language insights and recommendations
 """
 
@@ -88,7 +88,7 @@ class AIEnhancedPatternRecognition(CDOPatternRecognition):
         
         insights_clean = convert_for_json(insights_summary)
         
-        prompt = f"""You are an expert analyst for Monitoring & Oversight. Analyze the following case management insights and provide:
+        prompt = f"""You are an expert analyst for Performance & Case Insights AI Agent. Analyze the following case management insights and provide:
 
 1. Executive Summary (2-3 sentences)
 2. Top 3 Critical Risks requiring immediate attention

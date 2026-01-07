@@ -1,8 +1,8 @@
-# High-Level Architecture: Monitoring & Oversight - AI-Driven Operational Intelligence
+# High-Level Architecture: Performance & Case Insights AI Agent
 
 ## System Overview
 
-The Monitoring & Oversight system transforms reactive case management reporting into proactive, AI-driven operational intelligence. It analyzes case data to identify risks, patterns, inefficiencies, and provides actionable insights through an interactive web interface.
+The Performance & Case Insights AI Agent transforms reactive case management reporting into proactive, AI-driven operational intelligence. It analyzes case data to identify risks, patterns, inefficiencies, and provides actionable insights through an interactive web interface.
 
 ---
 
@@ -418,7 +418,7 @@ Azure Cloud
 
 ## Summary
 
-The Monitoring & Oversight system follows a **layered, modular architecture** that separates concerns and enables easy extension. The core analysis engine provides robust pattern recognition and risk identification, while the AI-enhanced layer adds intelligent insights and natural language interaction. The Streamlit-based UI provides an intuitive interface for data upload, visualization, and interaction.
+The Performance & Case Insights AI Agent follows a **layered, modular architecture** that separates concerns and enables easy extension. The core analysis engine provides robust pattern recognition and risk identification, while the AI-enhanced layer adds intelligent insights and natural language interaction. The Streamlit-based UI provides an intuitive interface for data upload, visualization, and interaction.
 
 The architecture is designed to be:
 - **Scalable**: Can be extended to support larger datasets and concurrent users

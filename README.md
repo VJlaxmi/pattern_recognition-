@@ -1,4 +1,4 @@
-# Monitoring & Oversight - Pattern Recognition System
+# Performance & Case Insights AI Agent
 
 AI-driven operational intelligence system for transforming reactive case management reporting into proactive insights.
 

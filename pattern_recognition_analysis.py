@@ -1,5 +1,5 @@
 """
-Monitoring & Oversight - Pattern Recognition Analysis
+Performance & Case Insights AI Agent - Pattern Recognition Analysis
 Analyzes case management data to identify patterns, risks, inefficiencies, and root causes
 """
 
